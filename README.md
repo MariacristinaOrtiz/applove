@@ -21,13 +21,13 @@ Para completar tu web **AppLove** hemos creado este repositorio boilerplate (pla
 
 El reto consiste en maquetar la web **AppLove**, este es el resultado final:
 
-![AppLove](https://fotos.subefotos.com/1edc0aab51f1d624da4a24ab86129d87o.png) 
+![AppLove](https://fotos.subefotos.com/1edc0aab51f1d624da4a24ab86129d87o.png)
 
 ## Detalles adicionales
 
 - Encontrarás un archivo base `index.html` el cual contiene una estructura inicial sobre la que deberás completar tu proyecto.
 
-- En la carpeta `css` tendrás un archivo base `main.css` donde hay clases reutilizables, quiere decir que dichas clases pueden ser usadas más de una vez. Por ejemplo: 
+- En la carpeta `css` tendrás un archivo base `main.css` donde hay clases reutilizables, quiere decir que dichas clases pueden ser usadas más de una vez. Por ejemplo:
 
     ```CSS
     .text-uppercase {
@@ -39,7 +39,7 @@ El reto consiste en maquetar la web **AppLove**, este es el resultado final:
 
 - El `header` tiene que estar **estático**, como se muestra en la siguiente _imagen gif_:
 
-![AppLove-gif](https://fotos.subefotos.com/da068e44cb72b36ba6c4458130c00185o.gif) 
+![AppLove-gif](https://fotos.subefotos.com/da068e44cb72b36ba6c4458130c00185o.gif)
 
 - Dentro de la carpeta `assets` se encuentra la carpeta `images` donde encontrarás todas las imágenes necesarias para completar tu proyecto.
 
@@ -57,3 +57,8 @@ Este reto sera evaluado sobre lo siguiente:
 - Estructura de tus archivos
 - Archivo `README.md` actualizado y correctamente redactado
 - Uso de comentarios para hacer tu código más legible
+
+## Resultado final (APPLOVE)
+
+## Descripción
+Se muestra  una pagina web  denominada **APPLOVE** en la que se busca replicar la pagina applove (imagen mostrad aarriba), para ello se creó la estructura **HTML** y **CSS** donde  se aplico la propiedad position **fixed** para que la barra de menu ( menu, sub-menu) se mantenga fija en el navegador; display **inline-block** para acomodar las imagenes de los contenidos principales (**sections**) asi mismo otros estilos **CSS** como color, tamaño de letra, tipografia, margen, background-image, etc para una adecuada maquetación.
