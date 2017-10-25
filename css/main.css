@@ -80,8 +80,9 @@ header {
   /*outline: 1px solid black;*/
   width: 100%;
   height: 4.5rem;
-  margin:10px;
-  /*position: fixed;*/
+  position: fixed;
+  top:0;
+  background-color: white;
 }
 #menu {
   font-size: 25px;
@@ -99,7 +100,7 @@ header {
   width: 10%;
   position: relative;
   left: 1290px;
-  bottom: 27px;
+  bottom: 28px;
   /*outline: 1px solid red;*/
 }
 
@@ -147,6 +148,7 @@ button {
   -o-background-size: cover;
   background-size: cover;
   color: #fff;
+  position: relative;
 }
 /*estilos de la segunda section*/
 section #services {
