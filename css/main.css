@@ -70,6 +70,7 @@ header {
   height: 4.5rem;
   position: fixed;
   top:0;
+  z-index: 1000;
   background-color: white;
 }
 #menu { /* estilos a la barra de menu*/
@@ -134,7 +135,7 @@ button {
   -o-background-size: cover;
   background-size: cover;
   color: #fff;
-  position: relative;
+  margin-top:80px;
 }
 /*estilos de la segunda section*/
 section #services {
